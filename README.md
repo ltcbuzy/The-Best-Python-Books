@@ -44,3 +44,7 @@ Luciano Ramalho (O’Reilly, 2014)
 ### 6.Learn Python 3 the Hard Way
 Zed A. Shaw (Addison-Wesley, 2016)
 > Considered a classic, 'Learn Python the Hard Way' has a distinctive approach that I highly appreciate. Embracing the 'hard way' method requires users to type in all the code, complete exercises diligently, and independently find solutions to encountered problems. What sets this book apart is its well-structured content—each chapter is meticulously presented, ensuring clarity and ease of understanding.
+
+### 7.Effective Computation in Physics: Field Guide to Research with Python
+Anthony Scopatz, Kathryn D. Huff (O’Reilly, 2015)
+> If only I had this book during my initial journey with Python. Contrary to its name, it proves to be an outstanding resource for those without a background in physics, research, or computational issues. It truly serves as a comprehensive field guide for Python usage. Beyond imparting Python knowledge, it delves into associated subjects such as command-line usage, version control, and the intricacies of testing and deploying software.
