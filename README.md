@@ -48,3 +48,11 @@ Zed A. Shaw (Addison-Wesley, 2016)
 ### 7.Effective Computation in Physics: Field Guide to Research with Python
 Anthony Scopatz, Kathryn D. Huff (O’Reilly, 2015)
 > If only I had this book during my initial journey with Python. Contrary to its name, it proves to be an outstanding resource for those without a background in physics, research, or computational issues. It truly serves as a comprehensive field guide for Python usage. Beyond imparting Python knowledge, it delves into associated subjects such as command-line usage, version control, and the intricacies of testing and deploying software.
+
+### 8. Think Python: How to Think Like a Computer Scientist, 2nd edition
+Allen B. Downey (O’Reilly, 2015)
+
+> If the idea of learning Python through video game creation seems too lighthearted, Allen Downey's book 'Think Python' offers a more serious perspective.
+
+True to its title, the book aims to instill the thought processes of coding, and it accomplishes this goal effectively. In contrast to other resources, it adopts a more structured and linear organization. 'Think Python' concentrates on imparting fundamental Python programming knowledge in a straightforward, clear, and comprehensive manner.
+
