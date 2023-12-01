@@ -13,3 +13,9 @@ What sets this book apart is its practical approach in the latter half, featurin
 The second project delves into data visualization using matplotlib, exploring concepts like random walks, dice rolling, and statistical analysis. Readers also learn to interact with web APIs, retrieving and visualizing data from platforms like GitHub and HackerNews.
 
 The final project unfolds as a comprehensive guide to building a web application using Django. From project setup to user account management and deployment on Heroku, this project provides a real-world application development experience.
+
+
+### Head-First Python, 2nd edition
+Paul Barry (O’Reilly, 2016)
+
+<img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/a6627bcc-f30c-4051-a0c5-9e0597e29384" width="200" height="250">
