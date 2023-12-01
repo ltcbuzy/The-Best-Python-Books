@@ -24,3 +24,11 @@ Paul Barry (O’Reilly, 2016)
 <img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/a6627bcc-f30c-4051-a0c5-9e0597e29384" width="200" height="250">
 
 > I have a strong preference for the Head-First series of books, even though they might be considered lighter in overall content compared to other recommendations in this section. However, the benefit of this approach is that it enhances the book's user-friendliness.
+
+### 3. Python Cookbook
+David Beazley & Brian K. Jones (O’Reilly, 3rd edition, 2013)
+
+<img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/2911dbb9-a9fd-4774-bf85-d8fc95f79f96" width="200" height="250">
+
+> This book distinguishes itself with its exceptional level of detail. While code cookbooks generally serve as concise guides showcasing efficient methods for common tasks, Python Cookbook takes a unique approach. Each recipe not only provides a comprehensive code solution but also includes an in-depth discussion by the author, offering insights into specific elements of the solution.
+
