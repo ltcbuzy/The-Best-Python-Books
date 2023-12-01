@@ -41,3 +41,6 @@ The final project unfolds as a comprehensive guide to building a web application
 Luciano Ramalho (O’Reilly, 2014)
 >Designed for seasoned Python 2 programmers aiming to transition to Python 3 proficiency, this book serves as an ideal resource. It caters to individuals with a strong grasp of Python basics, whether in version 2 or 3, seeking to elevate their skill set. Furthermore, it doubles as a valuable reference for experienced programmers from other languages, offering quick insights into executing specific tasks in Python.
 
+### 6.Learn Python 3 the Hard Way
+Zed A. Shaw (Addison-Wesley, 2016)
+> Considered a classic, 'Learn Python the Hard Way' has a distinctive approach that I highly appreciate. Embracing the 'hard way' method requires users to type in all the code, complete exercises diligently, and independently find solutions to encountered problems. What sets this book apart is its well-structured content—each chapter is meticulously presented, ensuring clarity and ease of understanding.
