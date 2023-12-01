@@ -73,3 +73,56 @@ True to its title, the book aims to instill the thought processes of coding, and
 - Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers by TJ O'Connor English Edition
 - Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz English Edition
 - Gray Hat Python: Python Programming for Hackers and Reverse Engineers by Justin Seitz English Edition
+
+## Here's a list of 50 highly recommended books for learning Python:
+
+1. Python Crash Course" by Eric Matthes
+2. Automate the Boring Stuff with Python" by Al Sweigart
+3. Fluent Python" by Luciano Ramalho
+4. Effective Python: 90 Specific Ways to Write Better Python" by Brett Slatkin
+5. Learning Python" by Mark Lutz
+6. Python Pocket Reference" by Mark Lutz
+7. Python Cookbook" by David Beazley and Brian K. Jones
+8. Head-First Python" by Paul Barry
+9. Think Python" by Allen B. Downey
+10. Programming Python" by Mark Lutz
+11. Dive into Python 3" by Mark Pilgrim
+12. Python for Data Analysis" by Wes McKinney
+13. Introduction to Machine Learning with Python" by Andreas C. Müller and Sarah Guido
+14. Python Tricks: A Buffet of Awesome Python Features" by Dan Bader
+15. Test-Driven Development with Python" by Harry J.W. Percival
+16. Python in a Nutshell" by Alex Martelli
+17. Python Programming: An Introduction to Computer Science" by John Zelle
+18. Data Science from Scratch" by Joel Grus
+19. Flask Web Development" by Miguel Grinberg
+20. Web Scraping with Python: A Comprehensive Guide" by Ryan Mitchell
+21. Python Web Scraping Cookbook" by Michael Heydt
+22. Building Machine Learning Powered Applications" by Emmanuel Ameisen
+23. Mastering Python Networking" by Eric Chou
+24. Effective Computation in Physics" by Anthony Scopatz and Kathryn D. Huff
+25. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
+26. Introduction to Deep Learning with Python" by François Chollet
+27. Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili
+28. Python for Finance" by Yves Hilpisch
+29. Python Geospatial Analysis Cookbook" by Michael Diener
+30. Clean Code in Python" by Mariano Anaya
+31. Natural Language Processing in Action" by Lane, Howard, and Hapke
+32. Python Crash Course" by Matthes and Matthes
+33. Mastering Regular Expressions" by Jeffrey E.F. Friedl
+34. Learning Python Design Patterns" by Gahlot, Chetan
+35. Data Science for Business" by Provost and Fawcett
+36. Hitchhiker’s Guide to Python" by Kenneth Reitz and Tanya Schlusser
+37. Python Machine Learning" by Raschka and Mirjalili
+38. The Pragmatic Programmer: Your Journey to Mastery" by Andrew Hunt and David Thomas
+39. Data Science for Dummies" by Pierson
+40. Flask By Example" by Sayal and Nagaraja
+41. Python GUI Programming with Tkinter" by Moore, Chadwick, and Haas
+42. Introduction to Computer Science and Programming Using Python" by John V. Guttag
+43. Python Machine Learning Blueprints" by Alexander T. Combs
+44. Test-Driven Development with Python" by Harry J.W. Percival
+45. Hands-On Reinforcement Learning with Python" by Sudharsan Ravichandiran
+46. Real Python" by Fletcher Heisler
+47. Data Science from Scratch" by Joel Grus
+48. Web Scraping with Python" by Richard Lawson
+49. Flask Web Development" by Miguel Grinberg
+50. Automate This: How Algorithms Came to Rule Our World" by Christopher Steiner
