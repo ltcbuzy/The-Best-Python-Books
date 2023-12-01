@@ -126,3 +126,5 @@ True to its title, the book aims to instill the thought processes of coding, and
 48. Web Scraping with Python" by Richard Lawson
 49. Flask Web Development" by Miguel Grinberg
 50. Automate This: How Algorithms Came to Rule Our World" by Christopher Steiner
+
+Certainly! If you're looking to purchase any of the mentioned Python books or explore a wide range of other titles, please visit our [home page](https://targeted-visitors.com/contact-us/). We're here to assist you in finding the right resources to enhance your Python learning journey. Whether you're a beginner or an experienced programmer, our curated selection of books covers various aspects of Python programming. Feel free to explore and reach out if you need any assistance or recommendations. Happy learning!
