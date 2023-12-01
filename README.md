@@ -4,6 +4,9 @@
 
 ### 1. Python Crash Course
 Eric Matthes (No Starch Press, 2016)
+
+<img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/bce35639-9a3a-4e0a-94fc-2c3f9cd463cb" width="200" height="250">
+
 This book serves as an outstanding resource for both novice and seasoned Python enthusiasts, providing a comprehensive journey through the language's fundamentals and advanced applications. Beginning with a thorough exploration of basic elements and data structures such as variables, strings, numbers, lists, and tuples, the book gradually immerses readers in more complex concepts.
 
 The coverage extends to if statements, logical tests, and an in-depth examination of dictionaries. It then progresses seamlessly to encompass user input, while loops, functions, classes, and file handling, offering valuable insights into code testing and debugging along the way.
