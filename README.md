@@ -7,7 +7,7 @@ Eric Matthes (No Starch Press, 2016)
 
 <img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/bce35639-9a3a-4e0a-94fc-2c3f9cd463cb" width="200" height="250">
 
-This book serves as an outstanding resource for both novice and seasoned Python enthusiasts, providing a comprehensive journey through the language's fundamentals and advanced applications. Beginning with a thorough exploration of basic elements and data structures such as variables, strings, numbers, lists, and tuples, the book gradually immerses readers in more complex concepts.
+> This book serves as an outstanding resource for both novice and seasoned Python enthusiasts, providing a comprehensive journey through the language's fundamentals and advanced applications. Beginning with a thorough exploration of basic elements and data structures such as variables, strings, numbers, lists, and tuples, the book gradually immerses readers in more complex concepts.
 
 The coverage extends to if statements, logical tests, and an in-depth examination of dictionaries. It then progresses seamlessly to encompass user input, while loops, functions, classes, and file handling, offering valuable insights into code testing and debugging along the way.
 
@@ -18,7 +18,9 @@ The second project delves into data visualization using matplotlib, exploring co
 The final project unfolds as a comprehensive guide to building a web application using Django. From project setup to user account management and deployment on Heroku, this project provides a real-world application development experience.
 
 
-### Head-First Python, 2nd edition
+### 2. Head-First Python, 2nd edition
 Paul Barry (O’Reilly, 2016)
 
 <img src="https://github.com/ltcbuzy/The-Best-Python-Books/assets/96268218/a6627bcc-f30c-4051-a0c5-9e0597e29384" width="200" height="250">
+
+> I have a strong preference for the Head-First series of books, even though they might be considered lighter in overall content compared to other recommendations in this section. However, the benefit of this approach is that it enhances the book's user-friendliness.
