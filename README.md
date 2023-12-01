@@ -56,3 +56,20 @@ Allen B. Downey (O’Reilly, 2015)
 
 True to its title, the book aims to instill the thought processes of coding, and it accomplishes this goal effectively. In contrast to other resources, it adopts a more structured and linear organization. 'Think Python' concentrates on imparting fundamental Python programming knowledge in a straightforward, clear, and comprehensive manner.
 
+## Intermediate
+- Python 3 Object-Oriented Programming by Dusty Phillips English 2nd Edition
+- The Hacker's Guide to Python by Julien Danjou English Edition
+- Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns by Mark Summerfield English Edition
+- Expert Python Programming: Best practices for designing, coding, and distributing your Python software by Tarek Ziadé English Edition
+- Core Python Applications Programming by Wesley Chun English 3rd Edition
+- Intermediate Python Online
+- Effective Python: 59 Specific Ways to Write Better Python English Edition
+- Fluent Python by Luciano Ramalho English Edition
+- Learning Python Design Patterns by Chetan Giridhar English 2nd Edition
+- Mastering Python Design Patterns by Sakis Kasampalis English Edition
+- The Well-Grounded Python Developer by Doug Farrell English Edition
+
+### Security
+- Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers by TJ O'Connor English Edition
+- Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz English Edition
+- Gray Hat Python: Python Programming for Hackers and Reverse Engineers by Justin Seitz English Edition
